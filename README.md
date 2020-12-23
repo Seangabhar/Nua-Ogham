@@ -1,5 +1,18 @@
 # Nua-Ogham
+Eolas agus achnaimhí fé Nua-Ogham agus a clóanna
 Information and resources relating to the Nua-Ogham script and fonts
+# 1:Réamhrá
+Tá an script seo bunaithe ar ogham thraidisiúnta ach ní fíor-ogham atá ann. Rinneadh an togra seo ar a mhaithe féin, ar son áilleacht an cló agus suim i dteangeolaíocht. Ní dheanann an script seo éileamh ar stair sna litríocht nó sna clocha ogham iad féin. Níl ach cosúlacht éadomhain idir an dhá rud. Ní saineolaí ar ogham é an cruthaitheoir agus rinneadh sé seo mar thogra matamaiticiúil.
+# 2:Tús
+De bhrí go raibh ogham úsáidte chun Sean-Ghaeilge a scríobh, tá sí go huile is go hiomlán gan mhaitheas chun Nua-Ghaeilge a scríobh. Tá cúpla consan nach úsáidtear sa Nua-Ghaeilge agus níl minicíocht na litreacha inchurtha le méid buille a n-úsáideann siad. Chomh maith leis sin, chun na gutaí fada a scríobh, tá ort dhá guta a chur in aice a chéile, nó dearúid a dheanamh air.Tá sé gan éifeacht. Is ceart go mbeadh sé úsáidte le aghaidh píosaí ealaíne beaga. Cruthadh Nua-Ogham chun an beartas sin a líonadh.
+# 3:Ginearálta
+Is mar sprioc ag Nua-Ogham an ogham thraidisiúnta a úsáid mar inspioráid ach leasú a dhéanamh ar chun Nua-Ghaeilge a scríobh leis sa tslí is simplí. Chun é sin a dhéanamh, bhí adharc ar cúig phointe 
+1. Caithfidh cuma ogham a bheith uirthi
+2. Caithfidh córas simplí a bheith aici chun gutaí fada a scríobh
+3. Caithfidh córas simplí a bheith aici chun consain shéimhithe a scríobh, gan litir éigean eile.
+4. Caitfidh gaol a bheith ag ord na haicmí le minicíocht na litreacha
+5. Caithfidh marcanna poncaíochta a bheith aici
+
 # 1: Foreword
 This script is inspired by the traditional ogham script but it is not “authentic ogham”. This was an exercise done for its own right, for the aesthetic value of the script, and for an amateur interest in linguistics. This script does not claim any basis in classical texts or the original ogham stones themselves. There is no more than a superficial similarity between this and the original. The creator of this script is not an expert on ogham and is approaching this as a mathematical exercise and with an interest in designing an intuitive writing system based on ogham. 
 # 2: Introduction to the project
