@@ -23,7 +23,7 @@ These are written with a diagonal stroke across the stem line. In the upright wr
 These are divided between two aicme. 
 
 # 7a: Aicme ar Chlé – [t,c,d,b,p] 
-These are written as orthogonal lines starting from the stem line and going left in 	 upright writing direction. 
+These are written as orthogonal lines starting from the stem line and going left in the upright writing direction. 
     
 # 7b: Aicme ar Dheis – [s,g,m,f,v]
 These are written as orthogonal lines starting from the stem line and going right in the upright writing direction.  Although /v/ is not a lenitable consonant, it is             included here to maintain the maximum of five letters per aicme rather than have it in the unlenitable consonants. Therefore, there is no counterpart in the aicme sheimhithe ar dheis.
@@ -35,7 +35,7 @@ Once again, they are divided into two aicme
 # 8a: Aicme Shéimhithe ar Chlé– [ṫ,ċ,ḋ,ḃ,ḟ]
 These are written diagonally starting from the stem line and going up and left in the upright writing direction.
 # 8b: Aicme Shéimhithe ar Dheis – [ṡ,ġ,ṁ,ḟ]
-These are written diagonally, starting from the stem line and going down and right in the upright writing direction. This is the only aicme to have less than five members       since /v/ is included in the aicme dheis and cannot be lenited.
+These are written diagonally, starting from the stem line and going down and right in the upright writing direction. This is the only aicme to have less than five members       since /v/ is included in the aicme ar dheis and cannot be lenited.
 # 9: Punctuation
 As well as the letters required to write modern Irish efficiently, punctuation marks have been included. It is uncertain how useful they may be, but they are included for completeness. 
 The traditional end/beginning markers have also been included. These are written using the font with > and <
