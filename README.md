@@ -45,7 +45,7 @@ These are written with the same number strokes and in the same direction as the 
 
 Once again, they are divided into two aicme
 
-# 8a: Aicme Shéimhithe ar Chlé– [ṫ,ċ,ḋ,ḃ,ḟ]
+# 8a: Aicme Shéimhithe ar Chlé– [ṫ,ċ,ḋ,ḃ,ṗ]
 These are written diagonally starting from the stem line and going up and left in the upright writing direction.
 # 8b: Aicme Shéimhithe ar Dheis – [ṡ,ġ,ṁ,ḟ]
 These are written diagonally, starting from the stem line and going down and right in the upright writing direction. This is the only aicme to have less than five members       since /v/ is included in the aicme ar dheis and cannot be lenited.
