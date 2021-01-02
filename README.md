@@ -47,7 +47,7 @@ Tá an ponc lán stad mar na marcanna tosaigh agus deiridh curtha le chéile.
 Don chamóg, úsáidtear an marc tosaigh i lár an téacs chun léirigh go bhfuil píosa nua an abairt ag tosaigh gan an seanabairt ag críochnú.
 ,
 # 11: Cló
-Is féidir an cló Ogham Nua 1.0 a úsáid chun an script seo a scríobh ar ríomhaire, leis na gnáth-litreacha Laidin. Chun na consain shéimhithe a scríobh mar seo: ṫ, ,ṡ, ċ, ġ, ḋ, ṁ, ḃ, ḟ, ṗ. Le MS Word, dul  chuig INSERT>SYMBOL>MORE SYMBOLS agus pioc an siombal atá tú ag iarraidh cur le shortcut. Is féidir leat ALT+Letter a chur leis an siombal. Ná déan dearúd ar na leaganacha ceannlitir.
+Is féidir an cló Ogham Nua 1.0 a úsáid chun an script seo a scríobh ar ríomhaire, leis na gnáth-litreacha Laidin. Chun na consain shéimhithe a scríobh mar seo: ṫ, ,ṡ, ċ, ġ, ḋ, ṁ, ḃ, ḟ, ṗ. Le MS Word, dul  chuig INSERT>SYMBOL>MORE SYMBOLS agus pioc an siombal atá tú ag iarraidh cur le shortcut. Is féidir leat ALT+LITIR a chur leis an siombal. Ná déan dearúd ar na leaganacha ceannlitir.
 Tá an cló ar fáil ag www.github.com/Seangabhar/Nua-Ogham
 
 
